@@ -5,10 +5,10 @@ export default function Header() {
     return(
         <>
         <header>
-            <nav>
+            <nav className='md:flex'>
                     <div className="logoImg">
                         <h1 className="logo">Vito's Barbershop</h1>
-                        <img className="shopPole" src={shoppole1} alt="" />
+                        <img className="shopPole hidden md:flex" src={shoppole1} alt="" />
                     </div>
                     <ul className="menuBarItem">
                         <li className="menuItems"><a className="menuLink" href="/">Home</a></li>

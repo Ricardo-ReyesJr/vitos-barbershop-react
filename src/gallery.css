@@ -217,7 +217,7 @@ p {
 
 
 
-/* Media Queries */
+/* Media Queries 
 @media all and (max-width: 770px) {
     nav{
         width: 100%;
@@ -228,3 +228,4 @@ p {
         width: 100%;
     }
 }
+*/
