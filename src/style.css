@@ -92,6 +92,19 @@ nav{
 span {
     font-style: italic;
 }
+.bookButton {
+    background: #080404;
+    border-radius: 10px;
+    border: 5px solid #605431;
+    color: #F4E0B9;
+    padding: 10px;
+    width: 95px;
+    cursor: pointer;
+}
+.aTag{
+    text-decoration: none;
+    color: #F4E0B9;
+}
 
 /* contact form */
 .contactArea {

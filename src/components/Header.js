@@ -13,7 +13,7 @@ export default function Header() {
                     <ul className="menuBarItem">
                         <li className="menuItems"><a className="menuLink" href="/">Home</a></li>
                         <li className="menuItems"><a className="menuLink" href="gallery">Gallery</a></li>
-                        <li className="menuItems"><a className="menuLink" href="https://vitos-barber-shop.square.site/" target="_blank">Book Now</a></li>
+                        <li className="menuItems"><a className="menuLink" href="https://squareup.com/appointments/book/lrq3d9374iqdsx/44P8ESKTVNVYE/start" target="_blank">Book Now</a></li>
                         <li className="menuItems"><a className="menuLink" href="contact">Contact</a></li>
                     </ul>
                 </nav>

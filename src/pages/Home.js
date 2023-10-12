@@ -35,7 +35,8 @@ export default function Home() {
                     to design length blade work, detailing,
                     hot towel, and hairstyle.
                 </span>
-            </section>
+                <section className="buttonSection"><button className="bookButton"><a className="aTag" href="https://squareup.com/appointments/book/lrq3d9374iqdsx/44P8ESKTVNVYE/start" target="_blank">Book Now</a></button></section>
+                </section>
             </main>
         </>
     )
