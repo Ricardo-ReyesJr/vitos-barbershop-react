@@ -4,11 +4,11 @@ import vito from './Images/imgheroshot.jpg';
 export default function Home() {
     return(
         <>
-            <main className="heroSections">
-            <section className="heroSection1">
+            <main className="heroSections container row">
+            <section className="heroSection1 col-md-6">
                 <img className="vitoHeroShot" src={ vito } alt="vito" />
             </section>
-            <section className="heroSection2">
+            <section className="heroSection2 col-md-6">
                 <p className="services">Services</p>
                 <p>Senior Citizens Haircut 62+  |
                     $22.00 ... 30 Min.
